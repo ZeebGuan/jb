@@ -1,0 +1,1 @@
+@if(\App\Http\Controllers\FunctionController::siteinfo('station')=='1'){!!$str!!}@endif

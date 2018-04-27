@@ -1,0 +1,1871 @@
+﻿body{font-size:12px;}
+
+#page2_jPanel1{
+  top: 211px;
+  height: 393px;
+  width: 590px;
+  position: relative;
+  margin-left: auto;
+  margin-right: auto;
+  background: url(../images/jloginbox03.png) no-repeat;
+}
+
+#page2_jHtmlForm1_form{
+  position:absolute;
+  left: 69px;
+  top: 121px;
+  width: 473px;
+  height: 252px;
+}
+
+#page2_jLabel5{
+  left: 102px;
+  top: 89px;
+  font-size: 18px;
+  font-family: "微软雅黑";
+  font-weight: bold;
+  color: #505050;
+  line-height: 20px;
+}
+
+#page2_jLabel6{
+  left: 174px;
+  top: 94px;
+  font-size: 14px;
+  color: #505050;
+  line-height: 16px;
+}
+
+#page2_jButton1{
+  left: 156px;
+  top: 192px;
+  width:164px;
+  height:20px;
+}
+
+#page2_jPanel2{
+  left: 32px;
+  top: 4px;
+  height: 48px;
+  width: 394px;
+  background: #33393f;
+}
+
+#page2_jPanel3{
+  left: 33px;
+  top: 62px;
+  height: 48px;
+  width: 394px;
+  background: #33393f;
+}
+
+#page2_jLabel2{
+  left: 31px;
+  top: 16px;
+  font-size: 14px;
+  color: #ffffff;
+  line-height: 16px;
+}
+
+#page2_jEdit1{
+  left: 125px;
+  top: 10px;
+  width:242px;
+  height:20px;
+}
+
+#page2_jLabel7{
+  left: 29px;
+  top: 17px;
+  font-size: 14px;
+  color: #ffffff;
+  line-height: 16px;
+}
+
+#page2_jEdit2{
+  left: 125px;
+  top: 11px;
+  width:242px;
+  height:20px;
+}
+
+#page2_jPanel4{
+  left: 33px;
+  top: 118px;
+  height: 48px;
+  width: 394px;
+  background: #33393f;
+}
+
+#page2_jCheckBox1{
+  left: 126px;
+  top: 13px;
+}
+
+#page2_jLabel1{
+  left: 26px;
+  top: 16px;
+  font-size: 14px;
+  color: #ffffff;
+  line-height: 16px;
+}
+
+#page2_jPanel5{
+  top: -187px;
+  height: 62px;
+  width: 589px;
+  position: relative;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#page2_jImages1{
+  left: 4px;
+  top: 4px;
+  height: 45px;
+  width: 45px;
+}
+
+#page2_jLabel3{
+  left: 53px;
+  top: 16px;
+  font-size: 24px;
+  font-weight: bold;
+  color: #3f3f3f;
+  line-height: 26px;
+}
+
+#page2_jLabel4{
+  left: 369px;
+  top: 20px;
+  font-size: 18px;
+  font-weight: bold;
+  color: #3f3f3f;
+  line-height: 20px;
+}
+
+#page3_jContainer1{
+  left: 0px;
+  top: 0px;
+  width: 100%;
+  height: 100%;
+}
+
+#page3_jButton12{
+  left: 914px;
+  top: 156px;
+  width:90px;
+  height:20px;
+}
+
+#page3_jRegion1{
+  border:none;
+  overflow:hidden;
+}
+
+#page3_jRegion2{
+  border:none;
+  overflow:hidden;
+}
+
+#page3_jRegion3{
+  border:none;
+  overflow:hidden;
+}
+
+#page3_jPanel1{
+  left: 0px;
+  top: 0px;
+  height: 94px;
+  width: 100%;
+  background: url(../images/jTitle001.jpg) repeat;
+}
+
+#page3_jLabel1{
+  left: 15px;
+  top: 10px;
+  font-size: 36px;
+  font-family: "隶书";
+  color: #FFFFFF;
+  line-height: 38px;
+}
+
+#page3_jPanel2{
+  right: 0px;
+  top: 4px;
+  height: 39px;
+  width: 165px;
+}
+
+#page3_jLink1{
+  left: 12px;
+  top: 9px;
+}
+
+#page3_jLink2{
+  left: 56px;
+  top: 9px;
+}
+
+#page3_jLabel2{
+  left: 117px;
+  top: 9px;
+  line-height: 14px;
+}
+
+#page3_jLabel3{
+  left: 44px;
+  top: 9px;
+  line-height: 14px;
+}
+
+#page3_jPanel3{
+  left: 0px;
+  top: 93px;
+  height: 31px;
+  right: 0px;
+}
+
+#page3_jExtPanel2{
+  left: 0px;
+  top: 0px;
+  bottom: 0px;
+  right: 0px;
+}
+
+#page3_jExtPanel2 .PanelBarCaption{
+}
+
+#page3_jExtPanel2 .PanelContent{
+}
+
+#page3_jExtPanel2 .cumicon{
+  background:url(../images/) no-repeat;
+  right: 0px;
+  bottom: 0px;
+  margin: 2px 5px 0 2px;
+}
+
+#page3_jContainer2{
+  left: 0px;
+  top: 0px;
+  width: 100%;
+  height: 100%;
+}
+
+#page3_jRegion4{
+  border:none;
+  overflow:hidden;
+}
+
+#page3_jRegion5{
+  border:none;
+  overflow:hidden;
+}
+
+#page3_jDataGrid1{
+  left: 0px;
+  top: 1px;
+  height: 100%;
+  width: 100%;
+}
+
+#page3_jDataGrid1 .ui-jqgrid{
+  border: none;
+}
+
+#page3_jToolbar1{
+  left: 0px;
+  top: 0px;
+  bottom: 0px;
+  right: 0px;
+  border-left:none;
+  border-right:none;
+}
+
+#page3_jLabel5{
+  left: 4px;
+  top: 7px;
+  line-height: 14px;
+}
+
+#page3_jLabel6{
+  right: 58px;
+  top: 7px;
+  line-height: 14px;
+}
+
+#page3_jLabel7{
+  right: 8px;
+  top: 7px;
+  line-height: 14px;
+}
+
+#page3_jAccordion1{
+  left: 0px;
+  top: 0px;
+  height: 100%;
+  width: 100%;
+  position:absolute;
+}
+
+#page3_jTreeView2{
+  left: 0px;
+  top: 0px;
+  height:516px;
+  width:263px;
+  border-style:solid;
+  border-width:1pt;
+}
+
+#page3_jLink4{
+  left: 130px;
+  top: 9px;
+}
+
+#page3_jButton4{
+  left: 13px;
+  top: 3px;
+  width:70px;
+  height: 22px;
+}
+
+#page3_jButton1{
+  left: 97px;
+  top: 3px;
+  width:75px;
+  height: 22px;
+}
+
+#page3_jButton2{
+  left: 188px;
+  top: 3px;
+  width:56px;
+  height: 22px;
+}
+
+#page3_jButton3{
+  left: 260px;
+  top: 3px;
+  width:56px;
+  height: 22px;
+}
+
+#page3_jButton5{
+  left: 332px;
+  top: 4px;
+  width:55px;
+  height: 22px;
+}
+
+#page3_jEdit10{
+  left: 439px;
+  top: 13px;
+  width:144px;
+  height:14px;
+}
+
+#page3_jLabel16{
+  left: 358px;
+  top: 79px;
+  line-height: 14px;
+}
+
+#page3_jDateTimePicker1{
+  left: 438px;
+  top: 75px;
+  width: 150px;
+  height:  20px;
+}
+
+#page3_jDateTimePicker1 input[type=text]{
+  width: 148px;
+  height: 17px;
+}
+
+#page3_jLabel11{
+  left: 213px;
+  top: 110px;
+  line-height: 14px;
+}
+
+#page3_jLabel17{
+  left: 360px;
+  top: 110px;
+  line-height: 14px;
+}
+
+#page3_jEdit7{
+  left: 438px;
+  top: 106px;
+  width:77px;
+  height:14px;
+}
+
+#page3_jLabel12{
+  left: 13px;
+  top: 142px;
+  line-height: 14px;
+}
+
+#page3_jComboBox2{
+  left: 92px;
+  top: 139px;
+  height: 20px;
+  width: 55px;
+  position:absolute;
+}
+
+#page3_jEdit8{
+  left: 437px;
+  top: 138px;
+  width:219px;
+  height:14px;
+}
+
+#page3_jLabel18{
+  left: 360px;
+  top: 143px;
+  line-height: 14px;
+}
+
+#page3_jLabel45{
+  left: 16px;
+  top: 171px;
+  line-height: 14px;
+}
+
+#page3_jLabel46{
+  left: 104px;
+  top: 172px;
+  line-height: 14px;
+}
+
+#page3_jLabel14{
+  left: 14px;
+  top: 196px;
+  line-height: 14px;
+}
+
+#page3_jMemo1{
+  left: 90px;
+  top: 198px;
+  width:345px;
+  height:36px;
+}
+
+#page3_jExtPanel1{
+  left: 12px;
+  top: 253px;
+  height:228px;
+  width:660px;
+}
+
+#page3_jExtPanel1 .PanelBarCaption{
+}
+
+#page3_jExtPanel1 .PanelContent{
+}
+
+#page3_jExtPanel1 .cumicon{
+  background:url(../images/) no-repeat;
+  width:16px;
+  height:16px;
+  margin: 2px 5px 0 2px;
+}
+
+#page3_jButton17{
+  left: 441px;
+  top: 486px;
+  width:80px;
+  height:20px;
+}
+
+#page3_jButton6{
+  left: 538px;
+  top: 486px;
+  width:56px;
+  height:20px;
+}
+
+#page3_jButton7{
+  left: 612px;
+  top: 486px;
+  width:56px;
+  height:20px;
+}
+
+#page3_jLabel4{
+  left: 13px;
+  top: 14px;
+  line-height: 14px;
+}
+
+#page3_jEdit1{
+  left: 91px;
+  top: 11px;
+  width:219px;
+  height:14px;
+}
+
+#page3_jLabel8{
+  left: 13px;
+  top: 78px;
+  line-height: 14px;
+}
+
+#page3_jEdit2{
+  left: 91px;
+  top: 75px;
+  width:129px;
+  height:14px;
+}
+
+#page3_jLabel9{
+  left: 13px;
+  top: 46px;
+  line-height: 14px;
+}
+
+#page3_jComboBox1{
+  left: 91px;
+  top: 43px;
+  height: 20px;
+  width: 182px;
+  position:absolute;
+}
+
+#page3_jLabel10{
+  left: 13px;
+  top: 110px;
+  line-height: 14px;
+}
+
+#page3_jEdit3{
+  left: 92px;
+  top: 106px;
+  width:109px;
+  height:14px;
+}
+
+#page3_jLabel13{
+  left: 359px;
+  top: 14px;
+  line-height: 14px;
+}
+
+#page3_jLabel15{
+  left: 359px;
+  top: 46px;
+  line-height: 14px;
+}
+
+#page3_jEdit9{
+  left: 437px;
+  top: 43px;
+  width:150px;
+  height:14px;
+}
+
+#page3_jDataGrid2{
+  left: 0px;
+  top: 31px;
+  height: 211px;
+  width: 661px;
+}
+
+#page3_jDataGrid2 .ui-jqgrid{
+  border: none;
+}
+
+#page3_jToolbar2{
+  left: 0px;
+  top: 0px;
+  height: 31px;
+  right: 0px;
+  border-left:none;
+  border-right:none;
+}
+
+#page3_jButton8{
+  left: 4px;
+  top: 4px;
+  width:56px;
+  height: 22px;
+}
+
+#page3_jButton9{
+  left: 70px;
+  top: 4px;
+  width:56px;
+  height: 22px;
+}
+
+#page3_jButton10{
+  left: 136px;
+  top: 4px;
+  width:56px;
+  height: 22px;
+}
+
+#page3_jButton11{
+  left: 222px;
+  top: 4px;
+  width:56px;
+  height: 22px;
+}
+
+#page3_jSeparator1{
+  left: 206px;
+  top: 6px;
+  height: 18px;
+  width: 8px;
+}
+
+#page3_jDialog1{
+}
+
+#page3_jHtmlForm1_form{
+  position:absolute;
+  left: 0px;
+  top: 4px;
+  width: 677px;
+  height: 520px;
+}
+
+#page3_jDialog2{
+}
+
+#page3_jLabel31{
+  left: 93px;
+  top: 15px;
+  line-height: 14px;
+}
+
+#page3_jLabel42{
+  left: 346px;
+  top: 20px;
+  line-height: 14px;
+}
+
+#page3_jLabel43{
+  left: 435px;
+  top: 20px;
+  line-height: 14px;
+}
+
+#page3_jLabel20{
+  left: 12px;
+  top: 48px;
+  line-height: 14px;
+}
+
+#page3_jLabel44{
+  left: 93px;
+  top: 49px;
+  line-height: 14px;
+}
+
+#page3_jLabel27{
+  left: 344px;
+  top: 54px;
+  line-height: 14px;
+}
+
+#page3_jLabel32{
+  left: 434px;
+  top: 56px;
+  line-height: 14px;
+}
+
+#page3_jLabel30{
+  left: 14px;
+  top: 85px;
+  line-height: 14px;
+}
+
+#page3_jLabel33{
+  left: 95px;
+  top: 88px;
+  line-height: 14px;
+}
+
+#page3_jLabel26{
+  left: 344px;
+  top: 86px;
+  line-height: 14px;
+}
+
+#page3_jLabel37{
+  left: 433px;
+  top: 87px;
+  line-height: 14px;
+}
+
+#page3_jLabel29{
+  left: 12px;
+  top: 118px;
+  line-height: 14px;
+}
+
+#page3_jLabel36{
+  left: 94px;
+  top: 119px;
+  line-height: 14px;
+}
+
+#page3_jLabel34{
+  left: 432px;
+  top: 120px;
+  line-height: 14px;
+}
+
+#page3_jLabel19{
+  left: 345px;
+  top: 119px;
+  line-height: 14px;
+}
+
+#page3_jLabel28{
+  left: 14px;
+  top: 153px;
+  line-height: 14px;
+}
+
+#page3_jLabel38{
+  left: 93px;
+  top: 152px;
+  line-height: 14px;
+}
+
+#page3_jLabel21{
+  left: 345px;
+  top: 155px;
+  line-height: 14px;
+}
+
+#page3_jLabel35{
+  left: 433px;
+  top: 157px;
+  line-height: 14px;
+}
+
+#page3_jLabel22{
+  left: 13px;
+  top: 183px;
+  line-height: 14px;
+}
+
+#page3_jLabel39{
+  left: 96px;
+  top: 186px;
+  line-height: 14px;
+}
+
+#page3_jLabel23{
+  left: 344px;
+  top: 186px;
+  line-height: 14px;
+}
+
+#page3_jLabel40{
+  left: 434px;
+  top: 186px;
+  line-height: 14px;
+}
+
+#page3_jLabel24{
+  left: 14px;
+  top: 211px;
+  line-height: 14px;
+}
+
+#page3_jLabel41{
+  left: 97px;
+  top: 213px;
+  line-height: 14px;
+}
+
+#page3_jExtPanel3{
+  left: 10px;
+  top: 242px;
+  height:267px;
+  width:430px;
+}
+
+#page3_jExtPanel3 .PanelBarCaption{
+}
+
+#page3_jExtPanel3 .PanelContent{
+}
+
+#page3_jExtPanel3 .cumicon{
+  background:url(../images/) no-repeat;
+  width:16px;
+  height:16px;
+  margin: 2px 5px 0 2px;
+}
+
+#page3_jLabel25{
+  left: 13px;
+  top: 14px;
+  line-height: 14px;
+}
+
+#page3_jDataGrid3{
+  left: 0px;
+  top: 0px;
+  height: 242px;
+  width: 661px;
+}
+
+#page3_jDataGrid3 .ui-jqgrid{
+  border: none;
+}
+
+#page3_jImages1{
+  left: 489px;
+  top: 313px;
+  height:128px;
+  width:128px;
+}
+
+#page3_jButton16{
+  left: 249px;
+  top: 520px;
+  width:81px;
+  height:20px;
+}
+
+#page3_jButton13{
+  left: 354px;
+  top: 521px;
+  width:81px;
+  height:20px;
+}
+
+#page3_jButton14{
+  left: 459px;
+  top: 521px;
+  width:80px;
+  height:20px;
+}
+
+#page3_jButton15{
+  left: 560px;
+  top: 522px;
+  width:81px;
+  height:20px;
+}
+
+#page3_jHtmlForm2_form{
+  position:absolute;
+  left: 0px;
+  top: 0px;
+  width: 675px;
+  height: 552px;
+}
+
+#page3_jTreeView3{
+  left: 0px;
+  top: 0px;
+  height:514px;
+  width:260px;
+  border-style:solid;
+  border-width:1pt;
+}
+
+#page3_jTreeView4{
+  left: 4px;
+  top: 4px;
+  height:381px;
+  width:258px;
+  border-style:solid;
+  border-width:1pt;
+}
+
+#page5_jContainer1{
+  left: 0px;
+  top: 0px;
+  width: 100%;
+  height: 100%;
+}
+
+#page5_jButton12{
+  left: 914px;
+  top: 156px;
+  width:90px;
+  height:20px;
+}
+
+#page5_jRegion1{
+  border:none;
+  overflow:hidden;
+}
+
+#page5_jRegion2{
+  border:none;
+  overflow:hidden;
+}
+
+#page5_jRegion3{
+  border:none;
+  overflow:hidden;
+}
+
+#page5_jPanel1{
+  left: 0px;
+  top: 0px;
+  height: 94px;
+  width: 100%;
+  background: url(../images/jTitle001.jpg) repeat;
+}
+
+#page5_jLabel1{
+  left: 15px;
+  top: 10px;
+  font-size: 36px;
+  font-family: "隶书";
+  color: #FFFFFF;
+  line-height: 38px;
+}
+
+#page5_jPanel2{
+  right: 0px;
+  top: 4px;
+  height: 39px;
+  width: 165px;
+}
+
+#page5_jLink1{
+  left: 12px;
+  top: 9px;
+}
+
+#page5_jLink2{
+  left: 56px;
+  top: 9px;
+}
+
+#page5_jLabel2{
+  left: 117px;
+  top: 9px;
+  line-height: 14px;
+}
+
+#page5_jLabel3{
+  left: 44px;
+  top: 9px;
+  line-height: 14px;
+}
+
+#page5_jPanel3{
+  left: 0px;
+  top: 93px;
+  height: 31px;
+  right: 0px;
+}
+
+#page5_jExtPanel2{
+  left: 0px;
+  top: 0px;
+  bottom: 0px;
+  right: 0px;
+}
+
+#page5_jExtPanel2 .PanelBarCaption{
+}
+
+#page5_jExtPanel2 .PanelContent{
+}
+
+#page5_jExtPanel2 .cumicon{
+  background:url(../images/) no-repeat;
+  right: 0px;
+  bottom: 0px;
+  margin: 2px 5px 0 2px;
+}
+
+#page5_jContainer2{
+  left: 0px;
+  top: 0px;
+  width: 100%;
+  height: 100%;
+}
+
+#page5_jRegion4{
+  border:none;
+  overflow:hidden;
+}
+
+#page5_jRegion5{
+  border:none;
+  overflow:hidden;
+}
+
+#page5_jDataGrid1{
+  left: 0px;
+  top: 1px;
+  height: 100%;
+  width: 100%;
+}
+
+#page5_jDataGrid1 .ui-jqgrid{
+  border: none;
+}
+
+#page5_jToolbar1{
+  left: 0px;
+  top: 0px;
+  bottom: 0px;
+  right: 0px;
+  border-left:none;
+  border-right:none;
+}
+
+#page5_jLabel5{
+  left: 4px;
+  top: 7px;
+  line-height: 14px;
+}
+
+#page5_jLabel6{
+  right: 58px;
+  top: 7px;
+  line-height: 14px;
+}
+
+#page5_jLabel7{
+  right: 8px;
+  top: 7px;
+  line-height: 14px;
+}
+
+#page5_jAccordion1{
+  left: 0px;
+  top: 0px;
+  height: 100%;
+  width: 100%;
+  position:absolute;
+}
+
+#page5_jTreeView2{
+  left: 0px;
+  top: 0px;
+  height:516px;
+  width:263px;
+  border-style:solid;
+  border-width:1pt;
+}
+
+#page5_jLink4{
+  left: 130px;
+  top: 9px;
+}
+
+#page5_jButton4{
+  left: 13px;
+  top: 3px;
+  width:70px;
+  height: 22px;
+}
+
+#page5_jEdit4{
+  left: 90px;
+  top: 42px;
+  width:144px;
+  height:14px;
+}
+
+#page5_jLabel15{
+  left: 15px;
+  top: 80px;
+  line-height: 14px;
+}
+
+#page5_jEdit9{
+  left: 90px;
+  top: 78px;
+  width:150px;
+  height:14px;
+}
+
+#page5_jLabel8{
+  left: 15px;
+  top: 117px;
+  line-height: 14px;
+}
+
+#page5_jEdit2{
+  left: 91px;
+  top: 113px;
+  width:129px;
+  height:14px;
+}
+
+#page5_jLabel18{
+  left: 13px;
+  top: 161px;
+  line-height: 14px;
+}
+
+#page5_jEdit8{
+  left: 91px;
+  top: 157px;
+  width:219px;
+  height:14px;
+}
+
+#page5_jLabel14{
+  left: 14px;
+  top: 202px;
+  line-height: 14px;
+}
+
+#page5_jLabel4{
+  left: 13px;
+  top: 14px;
+  line-height: 14px;
+}
+
+#page5_jEdit1{
+  left: 91px;
+  top: 11px;
+  width:219px;
+  height:14px;
+}
+
+#page5_jLabel9{
+  left: 13px;
+  top: 46px;
+  line-height: 14px;
+}
+
+#page5_jDialog1{
+}
+
+#page5_jHtmlForm1_form{
+  position:absolute;
+  left: 0px;
+  top: 4px;
+  width: 513px;
+  height: 308px;
+}
+
+#page5_jDialog2{
+}
+
+#page5_jLabel31{
+  left: 93px;
+  top: 15px;
+  line-height: 14px;
+}
+
+#page5_jButton13{
+  left: 418px;
+  top: 16px;
+  width:81px;
+  height:20px;
+}
+
+#page5_jLabel27{
+  left: 12px;
+  top: 46px;
+  line-height: 14px;
+}
+
+#page5_jLabel32{
+  left: 92px;
+  top: 48px;
+  line-height: 14px;
+}
+
+#page5_jButton14{
+  left: 421px;
+  top: 79px;
+  width:80px;
+  height:20px;
+}
+
+#page5_jLabel30{
+  left: 14px;
+  top: 85px;
+  line-height: 14px;
+}
+
+#page5_jLabel33{
+  left: 95px;
+  top: 88px;
+  line-height: 14px;
+}
+
+#page5_jLabel26{
+  left: 14px;
+  top: 117px;
+  line-height: 14px;
+}
+
+#page5_jLabel37{
+  left: 93px;
+  top: 118px;
+  line-height: 14px;
+}
+
+#page5_jLabel29{
+  left: 14px;
+  top: 144px;
+  line-height: 14px;
+}
+
+#page5_jLabel36{
+  left: 95px;
+  top: 144px;
+  line-height: 14px;
+}
+
+#page5_jButton15{
+  left: 422px;
+  top: 147px;
+  width:81px;
+  height:20px;
+}
+
+#page5_jLabel23{
+  left: 14px;
+  top: 176px;
+  line-height: 14px;
+}
+
+#page5_jLabel40{
+  left: 92px;
+  top: 178px;
+  line-height: 14px;
+}
+
+#page5_jLabel24{
+  left: 14px;
+  top: 211px;
+  line-height: 14px;
+}
+
+#page5_jLabel41{
+  left: 97px;
+  top: 213px;
+  line-height: 14px;
+}
+
+#page5_jLabel25{
+  left: 13px;
+  top: 14px;
+  line-height: 14px;
+}
+
+#page5_jHtmlForm2_form{
+  position:absolute;
+  left: 0px;
+  top: 0px;
+  width: 543px;
+  height: 287px;
+}
+
+#page5_jTreeView3{
+  left: 0px;
+  top: 0px;
+  height:517px;
+  width:262px;
+  border-style:solid;
+  border-width:1pt;
+}
+
+#page5_jButton1{
+  left: 97px;
+  top: 4px;
+  width:60px;
+  height: 22px;
+}
+
+#page5_jButton5{
+  left: 170px;
+  top: 4px;
+  width:55px;
+  height: 22px;
+}
+
+#page5_jMemo1{
+  left: 92px;
+  top: 204px;
+  width:345px;
+  height:36px;
+}
+
+#page5_jButton6{
+  left: 386px;
+  top: 268px;
+  width:55px;
+  height:20px;
+}
+
+#page5_jTreeView4{
+  left: 0px;
+  top: 0px;
+  height:381px;
+  width:258px;
+  border-style:solid;
+  border-width:1pt;
+}
+
+#page6_jContainer1{
+  left: 0px;
+  top: 0px;
+  width: 100%;
+  height: 100%;
+}
+
+#page6_jRegion1{
+  border:none;
+  overflow:hidden;
+}
+
+#page6_jRegion2{
+  border:none;
+  overflow:hidden;
+}
+
+#page6_jRegion3{
+  border:none;
+  overflow:hidden;
+}
+
+#page6_jPanel1{
+  left: 0px;
+  top: 0px;
+  height: 94px;
+  width: 100%;
+  background: url(/images/admin-top-bg.jpg) repeat;
+}
+
+#page6_jLabel1{
+  left: 15px;
+  top: 10px;
+  font-size: 36px;
+  font-family: "隶书";
+  color: #FFFFFF;
+  line-height: 38px;
+}
+
+#page6_jPanel2{
+  right: 0px;
+  top: 4px;
+  height: 39px;
+  width: 165px;
+}
+
+#page6_jLink1{
+  left: 12px;
+  top: 9px;
+}
+
+#page6_jLink2{
+  left: 56px;
+  top: 9px;
+}
+
+#page6_jLabel2{
+  left: 117px;
+  top: 9px;
+  line-height: 14px;
+}
+
+#page6_jLabel3{
+  left: 44px;
+  top: 9px;
+  line-height: 14px;
+}
+
+#page6_jPanel3{
+  left: 0px;
+  top: 93px;
+  height: 31px;
+  right: 0px;
+}
+
+#page6_jExtPanel2{
+  left: 0px;
+  top: 0px;
+  bottom: 0px;
+  right: 0px;
+}
+
+#page6_jExtPanel2 .PanelBarCaption{
+}
+
+#page6_jExtPanel2 .PanelContent{
+}
+
+#page6_jExtPanel2 .cumicon{
+  background:url(../images/) no-repeat;
+  right: 0px;
+  bottom: 0px;
+  margin: 2px 5px 0 2px;
+}
+
+#page6_jContainer2{
+  left: 0px;
+  top: 0px;
+  width: 100%;
+  height: 100%;
+}
+
+#page6_jRegion4{
+  border:none;
+  overflow:hidden;
+}
+
+#page6_jRegion5{
+  border:none;
+  overflow:hidden;
+}
+
+#page6_jDataGrid1{
+  left: 0px;
+  top: 1px;
+  height: 100%;
+  width: 100%;
+}
+
+#page6_jDataGrid1 .ui-jqgrid{
+  border: none;
+}
+
+#page6_jToolbar1{
+  left: 0px;
+  top: 0px;
+  bottom: 0px;
+  right: 0px;
+  border-left:none;
+  border-right:none;
+}
+
+#page6_jLabel5{
+  left: 4px;
+  top: 7px;
+  line-height: 14px;
+}
+
+#page6_jLabel6{
+  right: 58px;
+  top: 7px;
+  line-height: 14px;
+}
+
+#page6_jLabel7{
+  right: 8px;
+  top: 7px;
+  line-height: 14px;
+}
+
+#page6_jAccordion1{
+  left: 0px;
+  top: 0px;
+  height: 100%;
+  width: 100%;
+  position:absolute;
+}
+
+#page6_jTreeView2{
+  left: 0px;
+  top: 0px;
+  height:516px;
+  width:263px;
+  border-style:solid;
+  border-width:1pt;
+}
+
+#page6_jLink4{
+  left: 130px;
+  top: 9px;
+}
+
+#page6_jTreeView3{
+  left: 0px;
+  top: 0px;
+  height:514px;
+  width:260px;
+  border-style:solid;
+  border-width:1pt;
+}
+
+#page6_jButton5{
+  left: 10px;
+  top: 5px;
+  width:55px;
+  height: 22px;
+}
+
+#page6_jTreeView4{
+  left: 4px;
+  top: 4px;
+  height:381px;
+  width:258px;
+  border-style:solid;
+  border-width:1pt;
+}
+
+#page7_jContainer1{
+  left: 0px;
+  top: 0px;
+  width: 100%;
+  height: 100%;
+}
+
+#page7_jButton12{
+  left: 914px;
+  top: 156px;
+  width:90px;
+  height:20px;
+}
+
+#page7_jRegion1{
+  border:none;
+  overflow:hidden;
+}
+
+#page7_jRegion2{
+  border:none;
+  overflow:hidden;
+}
+
+#page7_jRegion3{
+  border:none;
+  overflow:hidden;
+}
+
+#page7_jPanel1{
+  left: 0px;
+  top: 0px;
+  height: 94px;
+  width: 100%;
+  background: url(../images/jTitle001.jpg) repeat;
+}
+
+#page7_jLabel1{
+  left: 15px;
+  top: 10px;
+  font-size: 36px;
+  font-family: "隶书";
+  color: #FFFFFF;
+  line-height: 38px;
+}
+
+#page7_jPanel2{
+  right: 0px;
+  top: 4px;
+  height: 39px;
+  width: 165px;
+}
+
+#page7_jLink1{
+  left: 12px;
+  top: 9px;
+}
+
+#page7_jLink2{
+  left: 56px;
+  top: 9px;
+}
+
+#page7_jLabel2{
+  left: 117px;
+  top: 9px;
+  line-height: 14px;
+}
+
+#page7_jLabel3{
+  left: 44px;
+  top: 9px;
+  line-height: 14px;
+}
+
+#page7_jPanel3{
+  left: 0px;
+  top: 93px;
+  height: 31px;
+  right: 0px;
+}
+
+#page7_jExtPanel2{
+  left: 0px;
+  top: 0px;
+  bottom: 0px;
+  right: 0px;
+}
+
+#page7_jExtPanel2 .PanelBarCaption{
+}
+
+#page7_jExtPanel2 .PanelContent{
+}
+
+#page7_jExtPanel2 .cumicon{
+  background:url(../images/) no-repeat;
+  right: 0px;
+  bottom: 0px;
+  margin: 2px 5px 0 2px;
+}
+
+#page7_jContainer2{
+  left: 0px;
+  top: 0px;
+  width: 100%;
+  height: 100%;
+}
+
+#page7_jRegion4{
+  border:none;
+  overflow:hidden;
+}
+
+#page7_jRegion5{
+  border:none;
+  overflow:hidden;
+}
+
+#page7_jDataGrid1{
+  left: 0px;
+  top: 1px;
+  height: 100%;
+  width: 100%;
+}
+
+#page7_jDataGrid1 .ui-jqgrid{
+  border: none;
+}
+
+#page7_jToolbar1{
+  left: 0px;
+  top: 0px;
+  bottom: 0px;
+  right: 0px;
+  border-left:none;
+  border-right:none;
+}
+
+#page7_jLabel5{
+  left: 4px;
+  top: 7px;
+  line-height: 14px;
+}
+
+#page7_jLabel6{
+  right: 58px;
+  top: 7px;
+  line-height: 14px;
+}
+
+#page7_jLabel7{
+  right: 8px;
+  top: 7px;
+  line-height: 14px;
+}
+
+#page7_jAccordion1{
+  left: 0px;
+  top: 0px;
+  height: 100%;
+  width: 100%;
+  position:absolute;
+}
+
+#page7_jTreeView2{
+  left: 0px;
+  top: 0px;
+  height:516px;
+  width:263px;
+  border-style:solid;
+  border-width:1pt;
+}
+
+#page7_jLink4{
+  left: 130px;
+  top: 9px;
+}
+
+#page7_jDialog2{
+}
+
+#page7_jLabel31{
+  left: 93px;
+  top: 15px;
+  line-height: 14px;
+}
+
+#page7_jLabel42{
+  left: 344px;
+  top: 22px;
+  line-height: 14px;
+}
+
+#page7_jLabel43{
+  left: 435px;
+  top: 20px;
+  line-height: 14px;
+}
+
+#page7_jLabel20{
+  left: 12px;
+  top: 48px;
+  line-height: 14px;
+}
+
+#page7_jLabel44{
+  left: 93px;
+  top: 49px;
+  line-height: 14px;
+}
+
+#page7_jLabel27{
+  left: 344px;
+  top: 54px;
+  line-height: 14px;
+}
+
+#page7_jLabel32{
+  left: 434px;
+  top: 56px;
+  line-height: 14px;
+}
+
+#page7_jLabel30{
+  left: 14px;
+  top: 85px;
+  line-height: 14px;
+}
+
+#page7_jLabel33{
+  left: 95px;
+  top: 88px;
+  line-height: 14px;
+}
+
+#page7_jLabel21{
+  left: 343px;
+  top: 96px;
+  line-height: 14px;
+}
+
+#page7_jLabel35{
+  left: 435px;
+  top: 98px;
+  line-height: 14px;
+}
+
+#page7_jLabel29{
+  left: 13px;
+  top: 127px;
+  line-height: 14px;
+}
+
+#page7_jLabel36{
+  left: 95px;
+  top: 126px;
+  line-height: 14px;
+}
+
+#page7_jLabel28{
+  left: 343px;
+  top: 134px;
+  line-height: 14px;
+}
+
+#page7_jLabel38{
+  left: 435px;
+  top: 133px;
+  line-height: 14px;
+}
+
+#page7_jLabel25{
+  left: 13px;
+  top: 14px;
+  line-height: 14px;
+}
+
+#page7_jLabel4{
+  left: 14px;
+  top: 168px;
+  line-height: 14px;
+}
+
+#page7_jImages1{
+  left: 94px;
+  top: 179px;
+  height:132px;
+  width:168px;
+}
+
+#page7_jTreeView3{
+  left: 0px;
+  top: 0px;
+  height:514px;
+  width:260px;
+  border-style:solid;
+  border-width:1pt;
+}
+
+#page7_jButton5{
+  left: 12px;
+  top: 4px;
+  width:55px;
+  height: 22px;
+}
+
+#page7_jHtmlForm2_form{
+  position:absolute;
+  left: 0px;
+  top: 2px;
+  width: 555px;
+  height: 334px;
+}
+
+#page7_jTreeView4{
+  left: 1px;
+  top: 2px;
+  height:511px;
+  width:258px;
+  border-style:solid;
+  border-width:1pt;
+}
+
+#page7_jLabel8{
+  left: 119px;
+  top: 9px;
+  line-height: 14px;
+}
+
+#page7_jEdit1{
+  left: 172px;
+  top: 7px;
+  width:144px;
+  height:14px;
+}
+
+#page7_jButton1{
+  left: 328px;
+  top: 5px;
+  width:56px;
+  height:20px;
+}
+
+#page7_jLabel9{
+  left: 412px;
+  top: 8px;
+  line-height: 14px;
+}
+
+#page7_jComboBox1{
+  left: 447px;
+  top: 6px;
+  height: 20px;
+  width: 150px;
+  position:absolute;
+}
+
